@@ -1,0 +1,6 @@
+general:
+  buildTool: "mta"
+
+integrationTest:
+  run: true
+  url: /http/TESTTMS
